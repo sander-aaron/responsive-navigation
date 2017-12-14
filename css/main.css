@@ -4,7 +4,7 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-html{
+html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -76,16 +76,19 @@ nav a:hover {
     font-size: 120%;
     line-height: 1.5;
   }
+
   header {
     padding-left: 1rem;
     padding-right: 1rem;
     text-align: left;
   }
+
   h1,
   nav {
     display: inline-block;
     vertical-align: middle;
   }
+
   h1 {
     margin-bottom: 0;
     margin-right: 1.5rem;
